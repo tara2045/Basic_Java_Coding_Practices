@@ -1,14 +1,11 @@
 package src.CollectionsQuestions;
 
-import java.util.*;
+import java.util.ArrayList;
 
 /**
  * @author Tara P
  */
-
-//How to Convert ArrayList to String Array In Java with Example
-
-public class ConvertArrayListToArray {
+public class ConvertArrayListToArray_Using_ToArray {
 
     public static void main(String[] args) {
 
@@ -28,11 +25,11 @@ public class ConvertArrayListToArray {
 
     //Displaying Array Elements
         for(String j : array){
-            System.out.println(j);
-        }
-
-
+        System.out.println(j);
+    }
 
     }
-}
 
+
+
+}
