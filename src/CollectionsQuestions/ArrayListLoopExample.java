@@ -18,6 +18,7 @@ public class ArrayListLoopExample {
         al.add("Karishma");
         al.add("Prasad");
         al.add("Adhikari");
+        al.add("Kathmandu");
 
         System.out.println("Using Advanced For Loop:");
 
