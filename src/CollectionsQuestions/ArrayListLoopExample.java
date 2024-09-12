@@ -12,12 +12,15 @@ public class ArrayListLoopExample {
     public static void main(String[] args) {
         //initialize ArrayList
         ArrayList<String> al = new ArrayList<String>();
+        //ArrayList<String> al = new ArrayList<String>();
+        //ArrayList<String> al = new ArrayList<String>();
 
         //add elements to ArrayList object
         al.add("Tara");
         al.add("Karishma");
         al.add("Prasad");
         al.add("Adhikari");
+        al.add("Kathmandu");
 
         System.out.println("Using Advanced For Loop:");
 
