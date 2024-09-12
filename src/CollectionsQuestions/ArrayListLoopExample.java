@@ -12,6 +12,7 @@ public class ArrayListLoopExample {
     public static void main(String[] args) {
         //initialize ArrayList
         ArrayList<String> al = new ArrayList<String>();
+        //ArrayList<String> al = new ArrayList<String>();
 
         //add elements to ArrayList object
         al.add("Tara");
